@@ -1,4 +1,4 @@
-# welcome sed bin debugger send power super face
+# welcome sed bin debugger send power super face economic
 
 The super face this create one debugger to sed bin
 put about the normative to make the development of
@@ -158,7 +158,7 @@ formation academic jobs.<br><br>
 
 DESCRIPTION:
 
-sed bin debugger send power super face
+sed bin debugger send power super face economic
 
 
 USAGE:<br>
